@@ -17,7 +17,7 @@ To run the app locally, follow these steps:
 3. Create a virtual environment by running the following command:
 
     ```
-    python3 -m venv .venv
+    python -m venv .venv
     ```
 
 4. Activate the virtual environment:
