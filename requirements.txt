@@ -1,0 +1,6 @@
+streamlit
+streamlit_option_menu
+torch
+torchvision
+timm
+pillow
